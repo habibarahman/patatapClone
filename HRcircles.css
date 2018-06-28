@@ -1,0 +1,21 @@
+canvas{
+	width:100%;
+	background: black;
+}
+
+body, html{
+	height: 100%;
+	margin: 0;
+}
+
+/*var circles = [];
+
+		function onKeyDown(event) {
+			if(keyData[event.key]){
+				var maxPoint = new Point(view.size.width, view.size.height);
+				var randomPoint = Point.random();
+				var point = maxPoint * randomPoint;
+				var newCircle = new Path.Circle(point, 500)
+				newCircle.fillColor = keyData[event.key].color;
+				keyData[event.key].sound.play();
+				circ*/
